@@ -3,3 +3,14 @@
 https://www.youtube.com/watch?v=j898RGRw0b4
 Web Dev Simplified
 2022/11/16
+
+# install
+
+```shell
+$ npm i react-bootstrap bootstrap react-router-dom
+
+$ npm i react-select
+$ npm i uuid
+$ npm i -D @types/uuid
+$ npm i react-markdown
+```
