@@ -14,3 +14,9 @@ $ npm i uuid
 $ npm i -D @types/uuid
 $ npm i react-markdown
 ```
+
+```shell
+$ npm i react-syntax-highlighter
+$ npm i --save-dev @types/react-syntax-highlighter
+$ npm install --save-dev @types/react-markdown @types/react-syntax-highlighter
+```
